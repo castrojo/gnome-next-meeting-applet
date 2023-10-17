@@ -33,7 +33,7 @@ yapf = "*"
 toml = "*"
 pylint = "*"
 mypy = "^0.930"
-ipython = "^7.30.1"
+ipython = "^8.10.0"
 
 [tool.poetry.scripts]
 gnome-next-meeting-applet = "gnma.cli:cli"
